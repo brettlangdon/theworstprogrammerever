@@ -66,5 +66,3 @@ If you would like to contribute an article to http://theworstprogrammerever.com:
   ```
 4. Create a pull request to this repo to await review/merge
 5. Profit
-
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
