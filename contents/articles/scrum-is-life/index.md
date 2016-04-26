@@ -9,7 +9,7 @@ If you're not doing scrum, you're doing it wrong.
 
 ---
 
-I've seen a lot of articles recently about how [Agile Does Not Equal Scrum](https://www.techwell.com/techwell-insights/2016/01/agile-does-not-equal-scrum-know-difference) or that you can [Determine he Right Agile Development Methodology](http://www.huffingtonpost.com/brian-de-haaff/how-to-determine-the-righ_b_9567344.html).  Well, I can save you a bunch of time.  The answer is that Scrum (or SCRUM if you're really in the know) is the answer.  I think we can all agree that the [Agile Manifesto](http://www.agilemanifesto.org/) makes sense, what better way to follow that than Scrum!
+I've seen a lot of articles recently about how [Agile Does Not Equal Scrum](https://www.techwell.com/techwell-insights/2016/01/agile-does-not-equal-scrum-know-difference) or that you can [Determine the Right Agile Development Methodology](http://www.huffingtonpost.com/brian-de-haaff/how-to-determine-the-righ_b_9567344.html).  Well, I can save you a bunch of time.  The answer is that Scrum (or SCRUM if you're really in the know) is the answer.  I think we can all agree that the [Agile Manifesto](http://www.agilemanifesto.org/) makes sense, what better way to follow that than Scrum!
 
 For those not familiar with [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)), let me start with a quick background.
 ![Scrum](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Scrum_process.svg/2000px-Scrum_process.svg.png)
