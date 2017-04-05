@@ -2,7 +2,6 @@
 title: Co-Code is Bad Code
 author: colin
 date: 2014-10-14
-template: article.jade
 ---
 
 Learn why co-coding isn't all it is cracked up to be.

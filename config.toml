@@ -1,3 +1,25 @@
 languageCode = "en-us"
 title = "The Worst Programmer Ever"
 baseURL = "https://theworstprogrammerever.com"
+theme = "hugo-after-dark"
+disqusShortname = "theworstprogrammerever"
+googleAnalytics = "UA-43062483-1"
+SectionPagesMenu = "main"
+
+[params]
+    description = "The best advice from the worst programmers"
+    show_menu = true
+    powered_by = false
+    theme_variant = "hack light"
+
+[[menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = "home"
+    url = "/"
+
+[[menu.main]]
+    name = "About"
+    weight = 2
+    identifier = "about"
+    url = "/about"

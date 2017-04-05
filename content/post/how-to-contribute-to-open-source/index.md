@@ -2,7 +2,6 @@
 title: How to Contribute to Open Source
 author: brett
 date: 2014-10-14
-template: article.jade
 ---
 
 Learn how to get started in the big and scary Open Source community.

@@ -2,7 +2,6 @@
 title: Microcommits
 author: brett
 date: 2015-06-24
-template: article.jade
 ---
 
 A look into the new development methodology of microcommitting.

@@ -2,7 +2,6 @@
 title: Scrum is Life
 author: adam
 date: 2016-04-26
-template: article.jade
 ---
 
 If you're not doing scrum, you're doing it wrong.
