@@ -32,6 +32,7 @@ With this minimal (and agreed upon) process in place, it's hard for me to believ
 
 
 Images from:
+
 * https://en.wikipedia.org/wiki/Scrum_(software_development)
 * https://dmquickscrum.wordpress.com/2014/11/07/in-scrum-can-a-sprint-be-cancelled-if-so-when/
 * http://leadinganswers.typepad.com/leading_answers/2012/02/timebox-alternatives.html
